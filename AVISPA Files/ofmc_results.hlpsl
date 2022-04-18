@@ -1,0 +1,18 @@
+% OFMC
+% Version of 2006/02/13
+SUMMARY
+  SAFE
+DETAILS
+  BOUNDED_NUMBER_OF_SESSIONS
+PROTOCOL
+  /home/span/span/testsuite/results/pls4.if
+GOAL
+  as_specified
+BACKEND
+  OFMC
+COMMENTS
+STATISTICS
+  parseTime: 0.00s
+  searchTime: 0.08s
+  visitedNodes: 64 nodes
+  depth: 6 plies
