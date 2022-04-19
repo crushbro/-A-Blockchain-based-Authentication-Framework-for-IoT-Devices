@@ -47,7 +47,7 @@ public class Server {
 		chain.addKey(deviceKeys.getPublic(), TID);
 
 		// Print statements for demonstration purposes
-		System.out.println("Drone ID: " + TID);
+		System.out.println("Device ID: " + TID);
 		System.out.println(deviceKeys.getPublic());
 		System.out.println();
 		
